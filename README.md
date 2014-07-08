@@ -93,3 +93,18 @@ ActionScript代码:
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+
+---------------------------------------
+
+### 列表
+
+  * Red
+  * Blue
+  * Gree
+
+### 列表2
+
+  1. 列表一
+  2. 列表二
+  3. 列表三
