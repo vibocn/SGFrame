@@ -36,12 +36,23 @@
       }  
     }  
 ### 代码内容显示:
-
+JavaScript代码:
 ```javascript
   var ihubo = {
     nickName  : "Vibo's Blog",
     site : "http://www.flash3v.com/blog/"
   }
+```
+ActionScript代码:
+```actionscript
+    package{
+        import flash.display.Sprite;
+        public class demo extends Sprite{
+            public function demo()
+            {
+            }
+        }
+    }
 ```
 ### 链接  
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />  
