@@ -59,11 +59,11 @@ ActionScript代码:
 2.[点击这里我你可以链接到我的博客](http://guoyunsky.iteye.com)<br />  
   
 ###只是显示图片  
-![github](http://github.com/unicorn.png "github")  
+![github](https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png?3b32af0c "github")  
   
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com  
-[![image]](http://www.github.com/)  
-[image]: http://github.com/github.png "github"  
+[![image]](https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png?3b32af0c)  
+[image]: https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png?3b32af0c "github"  
   
 ### 文字被些字符包围  
 > 文字被些字符包围  
