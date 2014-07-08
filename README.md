@@ -62,7 +62,7 @@ ActionScript代码:
 ![github](https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png?3b32af0c "github")  
   
 ###想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com  
-[![image]](https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png?3b32af0c)  
+[![image]](https://github.com)  
 [image]: https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_collabocats.png?3b32af0c "github"  
   
 ### 文字被些字符包围  
